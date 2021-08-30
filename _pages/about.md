@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+# About Me
 
 I am an incoming PhD student at Computer Science Department, Carnegie Mellon University. My research interests lie broadly in theoretical computer science, particularly: 
 * Sublinear Algorithms(like Sketching and Sampling Algorithms, Property Testing and Dimensional Reduction) 
