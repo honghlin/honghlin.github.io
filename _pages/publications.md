@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+(Authors are listed in alphabetical order)
+
 Learning-Augmented Sketches for Hessians\\
 Yi Li, Honghao Lin, David P. Woodruff\\
 Manuscipt
