@@ -15,6 +15,6 @@ Manuscipt
 Yu Cheng, Honghao Lin\\
 ICLR 2021
 
-[Learning-Augmented Sketches for Hessians](https://openreview.net/pdf?id=HyxJ1xBYDH)\\
+[Learning-Augmented Data Stream Algorithms](https://openreview.net/pdf?id=HyxJ1xBYDH)\\
 Tanqiu Jiang, Yi Li, Honghao Lin, Yisong Ruan, David P. Woodruff\\
 ICLR 2020
