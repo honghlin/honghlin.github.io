@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Learning-Augmented Sketches for Hessians\\
+Yi Li, Honghao Lin, David P. Woodruff\\
+Manuscipt
 
-{% include base_path %}
+[Robust Learning of Fixed-Structure Bayesian Networks in Nearly-Linear Time](https://arxiv.org/pdf/2105.05555.pdf)\\
+Yu Cheng, Honghao Lin\\
+ICLR 2021
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Learning-Augmented Sketches for Hessians](https://openreview.net/pdf?id=HyxJ1xBYDH)\\
+Tanqiu Jiang, Yi Li, Honghao Lin, Yisong Ruan, David P. Woodruff\\
+ICLR 2020
