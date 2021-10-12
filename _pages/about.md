@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am an incoming PhD student at Computer Science Department, Carnegie Mellon University. My research interests lie broadly in theoretical computer science, particularly: 
+I am a first-year PhD student at Computer Science Department, Carnegie Mellon University, where I am fortunate to be advised by Prof [David Woodruff](https://honghlin.github.io/). My research interests lie broadly in theoretical computer science, particularly: 
 * Sublinear Algorithms(like Sketching and Sampling Algorithms, Property Testing and Dimensionality Reduction) 
 * Algorithms for Massive Data 
 * Learning-based/augmented Algorithms 
