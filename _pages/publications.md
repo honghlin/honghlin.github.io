@@ -7,6 +7,9 @@ author_profile: true
 
 (Authors are listed in alphabetical order)
 
+[Quantum-Inspired Algorithms from Randomized Numerical Linear](https://arxiv.org/pdf/2011.04125.pdf)\\
+Nadiia Chepurko, Kenneth L. Clarkson, Lior Horesh, Honghao Lin, David P. Woodruff
+
 [Learning-Augmented Sketches for Hessians](https://arxiv.org/pdf/2102.12317.pdf)\\
 Yi Li, Honghao Lin, David P. Woodruff\\
 Manuscipt
