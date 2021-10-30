@@ -7,7 +7,7 @@ author_profile: true
 
 (Authors are listed in alphabetical order)
 
-[Quantum-Inspired Algorithms from Randomized Numerical Linear](https://arxiv.org/pdf/2011.04125.pdf)\\
+[Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra](https://arxiv.org/pdf/2011.04125.pdf)\\
 Nadiia Chepurko, Kenneth L. Clarkson, Lior Horesh, *Honghao Lin*, David P. Woodruff\\
 Manuscipt
 
