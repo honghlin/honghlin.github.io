@@ -8,11 +8,12 @@ author_profile: true
 (Authors are listed in alphabetical order)
 
 Streaming Algorithms with Large Approximation Factors.\\
-Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang. \\
+Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang \\
 Manuscipt
 
-Triangle and Four Cycle Counting with Predictions in Graph Stream.\\
-Justin Chen, Talya Eden, Piotr Indyk, *Honghao Lin*, Shyam Narayanan, Ronitt Rubinfeld, Sandeep Silwal, Tal Wagner, David P. Woodruff, Michael Zhang. \\
+Triangle and Four-Cycle Counting with Predictions in Graph Stream.\\
+Justin Chen, Talya Eden, Piotr Indyk, *Honghao Lin*, Shyam Narayanan, Ronitt Rubinfeld, Sandeep Silwal, Tal Wagner,\\
+David P. Woodruff, Michael Zhang \\
 Manuscipt
 
 
