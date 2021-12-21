@@ -7,6 +7,14 @@ author_profile: true
 
 (Authors are listed in alphabetical order)
 
+Streaming Algorithms with Large Approximation Factors.\\
+Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang
+
+Triangle and Four Cycle Counting with Predictions in Graph Stream.\\
+Justin Chen, Talya Eden, Piotr Indyk, *Honghao Lin*, Shyam Narayanan, Ronitt Rubinfeld, Sandeep Silwal, Tal Wagner, David Woodruff, Michael Zhang. \\
+Manuscipt
+
+
 [Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra](https://arxiv.org/pdf/2011.04125.pdf)\\
 Nadiia Chepurko, Kenneth L. Clarkson, Lior Horesh, *Honghao Lin*, David P. Woodruff\\
 Manuscipt
