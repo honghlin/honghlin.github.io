@@ -20,7 +20,7 @@ Manuscipt
 Yi Li, *Honghao Lin*, David P. Woodruff\\
 Manuscipt
 
-Triangle and Four-Cycle Counting with Predictions in Graph Stream.\\
+[Triangle and Four-Cycle Counting with Predictions in Graph Stream.](https://arxiv.org/pdf/2203.09572.pdf)\\
 Justin Chen, Talya Eden, Piotr Indyk, *Honghao Lin*, Shyam Narayanan, Ronitt Rubinfeld, Sandeep Silwal, Tal Wagner,\\
 David P. Woodruff, Michael Zhang \\
 ICLR 2022
