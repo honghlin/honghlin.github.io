@@ -18,7 +18,7 @@ Manuscipt
 
 Learning Augmented Binary Search Trees\\
 *Honghao Lin*, Tian Luo, David P. Woodruff\\
-ICML2022
+ICML 2022
 
 [Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra](https://arxiv.org/pdf/2011.04125.pdf)\\
 Nadiia Chepurko, Kenneth L. Clarkson, Lior Horesh, *Honghao Lin*, David P. Woodruff\\
