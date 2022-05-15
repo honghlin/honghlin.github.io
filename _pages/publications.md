@@ -16,7 +16,7 @@ Manuscipt
 Yi Li, *Honghao Lin*, David P. Woodruff\\
 Manuscipt
 
-Learning Augmented Binary Search Trees\\
+Learning-Augmented Binary Search Trees\\
 *Honghao Lin*, Tian Luo, David P. Woodruff\\
 ICML 2022
 
