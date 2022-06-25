@@ -9,7 +9,7 @@ author_profile: true
 
 Streaming Algorithms with Large Approximation Factors.\\
 Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang \\
-Manuscipt
+RANDOM 2022
 
 
 [Learning-Augmented Sketches for Hessians](https://arxiv.org/pdf/2102.12317.pdf)\\
