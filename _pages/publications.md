@@ -7,7 +7,7 @@ author_profile: true
 
 (Authors are listed in alphabetical order)
 
-Streaming Algorithms with Large Approximation Factors.(https://arxiv.org/pdf/2207.08075.pdf)\\
+[Streaming Algorithms with Large Approximation Factors.](https://arxiv.org/pdf/2207.08075.pdf)\\
 Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang \\
 RANDOM 2022
 
