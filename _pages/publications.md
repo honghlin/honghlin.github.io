@@ -11,7 +11,7 @@ author_profile: true
 Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang \\
 RANDOM 2022
 
-On Learned Sketches for Low-Rank Approximation and Second-Order Optimization\\
+On Learned Sketches for Low-Rank Approximation and Second-Order Optimization.\\
 Yi Li, *Honghao Lin*, Simin Liu, Ali Vakilian, David P. Woodruff\\
 Manuscipt
 
