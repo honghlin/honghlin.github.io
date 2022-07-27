@@ -11,10 +11,10 @@ author_profile: true
 Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang \\
 RANDOM 2022
 
-
-[Learning-Augmented Sketches for Hessians.](https://arxiv.org/pdf/2102.12317.pdf)\\
-Yi Li, *Honghao Lin*, David P. Woodruff\\
+On Learned Sketches for Low-Rank Approximation and Second-Order Optimization\\
+Yi Li, *Honghao Lin*, Simin Liu, Ali Vakilian, David P. Woodruff\\
 Manuscipt
+
 
 [Learning-Augmented Binary Search Trees.](https://arxiv.org/pdf/2206.12110.pdf)\\
 *Honghao Lin*, Tian Luo, David P. Woodruff\\
@@ -23,6 +23,10 @@ ICML 2022
 [Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra.](https://arxiv.org/pdf/2011.04125.pdf)\\
 Nadiia Chepurko, Kenneth L. Clarkson, Lior Horesh, *Honghao Lin*, David P. Woodruff\\
 ICML 2022
+
+[Learning-Augmented Sketches for Hessians.](https://arxiv.org/pdf/2102.12317.pdf)\\
+Yi Li, *Honghao Lin*, David P. Woodruff\\
+Manuscipt
 
 [Triangle and Four-Cycle Counting with Predictions in Graph Stream.](https://arxiv.org/pdf/2203.09572.pdf)\\
 Justin Chen, Talya Eden, Piotr Indyk, *Honghao Lin*, Shyam Narayanan, Ronitt Rubinfeld, Sandeep Silwal, Tal Wagner,\\
