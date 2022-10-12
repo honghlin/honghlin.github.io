@@ -13,6 +13,9 @@ Learning the Positions in CountSketch.\\
 Yi Li, *Honghao Lin*, Simin Liu, Ali Vakilian, David P. Woodruff\\
 Manuscipt
 
+The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines. \\
+Yi Li, *Honghao Lin*, David P. Woodruff \\
+SODA 2023
 
 [Streaming Algorithms with Large Approximation Factors.](https://arxiv.org/pdf/2207.08075.pdf)\\
 Yi Li, *Honghao Lin*, David P. Woodruff, Yuheng Zhang \\
