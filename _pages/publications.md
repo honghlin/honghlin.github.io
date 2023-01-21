@@ -11,7 +11,7 @@ author_profile: true
 
 Learning the Positions in CountSketch.\\
 Yi Li, *Honghao Lin*, Simin Liu, Ali Vakilian, David P. Woodruff\\
-ICLR2023(spotlight presentation)
+ICLR 2023 (spotlight presentation)
 
 [The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines.](https://arxiv.org/pdf/2211.07132.pdf) \\
 Yi Li, *Honghao Lin*, David P. Woodruff \\
