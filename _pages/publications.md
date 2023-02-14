@@ -8,12 +8,12 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
-$\ell_p$-Regression in the Arbitrary Partition Model of Communication.
-with Yi Li and David P. Woodruff
+$\ell_p$-Regression in the Arbitrary Partition Model of Communication.\\
+with Yi Li and David P. Woodruff\\
 Manuscript
 
-Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.
-with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang
+Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.\\
+with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang\\
 Manuscript
 
 Learning the Positions in CountSketch.\\
