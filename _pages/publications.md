@@ -8,13 +8,20 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
+$\ell_p$-Regression in the Arbitrary Partition Model of Communication.
+with Yi Li and David P. Woodruff
+Manuscript
+
+Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.
+with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang
+Manuscript
 
 Learning the Positions in CountSketch.\\
 with Yi Li, Simin Liu, Ali Vakilian, and David P. Woodruff\\
 ICLR 2023 (<font color = red>spotlight</font>)  
 
 [The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines.](https://arxiv.org/pdf/2211.07132.pdf) \\
-with Yi Li, and David P. Woodruff \\
+with Yi Li and David P. Woodruff \\
 SODA 2023
 
 [Streaming Algorithms with Large Approximation Factors.](https://arxiv.org/pdf/2207.08075.pdf)\\
