@@ -16,7 +16,7 @@ $\ell_p$-Regression in the Arbitrary Partition Model of Communication.\\
 with Yi Li and David P. Woodruff\\
 COLT 2023
 
-Learning the Positions in CountSketch.\\
+[Learning the Positions in CountSketch.](https://openreview.net/forum?id=iV9Cs8s8keU)\\
 with Yi Li, Simin Liu, Ali Vakilian, and David P. Woodruff\\
 ICLR 2023 (<font color = red>spotlight</font>)  
 
