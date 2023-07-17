@@ -12,7 +12,7 @@ Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.\\
 with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang\\
 Manuscript
 
-$\ell_p$-Regression in the Arbitrary Partition Model of Communication.\\
+[$\ell_p$-Regression in the Arbitrary Partition Model of Communication.](https://arxiv.org/pdf/2307.05117.pdf) \\
 with Yi Li and David P. Woodruff\\
 COLT 2023
 
