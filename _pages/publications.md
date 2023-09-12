@@ -8,9 +8,14 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
+Minimum Cut is More Efficient than Sparsification in a Stream.\\
+with Matthew Ding, Jason Li, Jelani Nelson, and David P. Woodruff \\
+Manuscript
+
+
 Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.\\
 with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang\\
-Manuscript
+PODS 2024
 
 [$\ell_p$-Regression in the Arbitrary Partition Model of Communication.](https://arxiv.org/pdf/2307.05117.pdf) \\
 with Yi Li and David P. Woodruff\\
