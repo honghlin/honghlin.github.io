@@ -15,7 +15,7 @@ Manuscript
 
 Optimal Sketching for Residual Error Estimation for Matrix and Vector Norms. \\
 with Yi Li and David P. Woodruff\\
-ICLR 2023
+ICLR 2024
 
 Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.\\
 with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang\\
