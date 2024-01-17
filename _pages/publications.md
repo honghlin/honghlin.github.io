@@ -8,10 +8,14 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
+
 Minimum Cut is More Efficient than Sparsification in a Stream.\\
 with Matthew Ding, Jason Li, Jelani Nelson, and David P. Woodruff \\
 Manuscript
 
+Optimal Sketching for Residual Error Estimation for Matrix and Vector Norms. \\
+with Yi Li and David P. Woodruff\\
+ICLR 2023
 
 Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.\\
 with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang\\
