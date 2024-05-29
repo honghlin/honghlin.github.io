@@ -9,11 +9,12 @@ author_profile: true
 
 
 
-Minimum Cut is More Efficient than Sparsification in a Stream.\\
-with Matthew Ding, Jason Li, Jelani Nelson, and David P. Woodruff \\
+Near-Optimal Effective Resistance and For-Each
+Sparsification in a Stream.\\
+with Matthew Ding, Alexandro Garces, Jason Li, Jelani Nelson, Vihan Shah, and David P. Woodruff \\
 Manuscript
 
-Optimal Sketching for Residual Error Estimation for Matrix and Vector Norms. \\
+[Optimal Sketching for Residual Error Estimation for Matrix and Vector Norms.](https://openreview.net/pdf?id=RsJwmWvE6Q) \\
 with Yi Li and David P. Woodruff\\
 ICLR 2024
 
