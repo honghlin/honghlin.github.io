@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a third-year PhD student at Computer Science Department, Carnegie Mellon University, where I am fortunate to be advised by Prof. [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science, particularly: 
+I am a third-year PhD student at Computer Science Department, Carnegie Mellon University, where I am fortunate to be advised by Prof. [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and Machine Learning, particularly: 
 * Sublinear Algorithms(like Sketching and Sampling Algorithms, Property Testing and Dimensionality Reduction) 
 * Algorithms for Massive Data 
 * Learning-based/Data-driven Algorithms 
