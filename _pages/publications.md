@@ -8,6 +8,9 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
+A Strong Separation for Adversarially Robust ℓ0 Estimation for Linear Sketches. \\
+with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
+FOCS 2024
 
 Near-Optimal Effective Resistance and For-Each
 Sparsification in a Stream.\\
@@ -18,7 +21,7 @@ Manuscript
 with Yi Li and David P. Woodruff\\
 ICLR 2024
 
-Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.\\
+[Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.](https://arxiv.org/pdf/2406.13231)\\
 with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang\\
 PODS 2024
 
