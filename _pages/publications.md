@@ -8,7 +8,7 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
-A Strong Separation for Adversarially Robust ℓ0 Estimation for Linear Sketches. \\
+A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches. \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
 FOCS 2024
 
