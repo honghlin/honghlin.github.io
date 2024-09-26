@@ -10,12 +10,12 @@ redirect_from:
 
 # About Me
 
-I am a third-year PhD student at Computer Science Department, Carnegie Mellon University, where I am fortunate to be advised by Prof. [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and Machine Learning, particularly: 
+I am a fourth-year PhD student at Computer Science Department, Carnegie Mellon University, where I am fortunate to be advised by Prof. [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and Machine Learning, particularly: 
 * Sublinear Algorithms(like Sketching and Sampling Algorithms, Property Testing and Dimensionality Reduction) 
 * Algorithms for Massive Data 
 * Learning-based/Data-driven Algorithms 
 * Robustness of Algorithms and Machine Learning.
 
-I am supported by CMU Paul and James Wang Sercomm Presidential Graduate Fellowship for 2023-2024. 
+I am supported by CMU Paul and James Wang Sercomm Presidential Graduate Fellowship for 2023-2024. Currently I am also a student researcher in Google Research, where I was supervised by Kevin Aydin and Peilin Zhong.
 
 Previously, I did my undergraduate at ACM Honors Class, Zhiyuan College, Shanghai Jiao Tong University, where I had worked with Prof. [Yu Yong](http://apex.sjtu.edu.cn/members/yyu), [Chihao Zhang](http://chihaozhang.com/) and [Weinan Zhang](http://wnzhang.net/). Besides, I was a visiting student at Division of Mathematical Science, Nanyang Technological University, host by Prof. [Yi Li](https://personal.ntu.edu.sg/yili/) and a research assistant at [ITCS](http://itcs.shufe.edu.cn/english/home.aspx), Shanghai University of Finance and Economics.

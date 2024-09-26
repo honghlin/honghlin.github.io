@@ -8,14 +8,18 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
-A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches. \\
-with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
-FOCS 2024
-
-Near-Optimal Effective Resistance and For-Each
-Sparsification in a Stream.\\
+Space Complexity of Minimum Cut Problems in Single-Pass Streams.\\
 with Matthew Ding, Alexandro Garces, Jason Li, Jelani Nelson, Vihan Shah, and David P. Woodruff \\
 Manuscript
+
+
+Even Sparser Graph Transformers.\\
+Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David Woodruff, Danica J. Sutherland (contributional order) \\
+NeurIPS 2024
+
+[A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches.](https://arxiv.org/pdf/2409.16153) \\
+with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
+FOCS 2024
 
 [Optimal Sketching for Residual Error Estimation for Matrix and Vector Norms.](https://openreview.net/pdf?id=RsJwmWvE6Q) \\
 with Yi Li and David P. Woodruff\\
