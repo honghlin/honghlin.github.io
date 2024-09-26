@@ -15,7 +15,7 @@ Manuscript
 
 Even Sparser Graph Transformers.\\
 Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David Woodruff, \\
-Danica J. Sutherland (contributional order) \\
+and Danica J. Sutherland (contributional order) \\
 NeurIPS 2024
 
 [A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches.](https://arxiv.org/pdf/2409.16153) \\
