@@ -14,7 +14,7 @@ Manuscript
 
 
 Even Sparser Graph Transformers.\\
-Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David P.Woodruff, \\
+Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David P. Woodruff, \\
 and Danica J. Sutherland (contributional order) \\
 NeurIPS 2024
 
