@@ -10,7 +10,7 @@ author_profile: true
 
 Space Complexity of Minimum Cut Problems in Single-Pass Streams.\\
 with Matthew Ding, Alexandro Garces, Jason Li, Jelani Nelson, Vihan Shah, and David P. Woodruff \\
-Manuscript
+ITCS 2025
 
 
 Even Sparser Graph Transformers.\\
