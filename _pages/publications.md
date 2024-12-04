@@ -8,12 +8,18 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
-Space Complexity of Minimum Cut Problems in Single-Pass Streams.\\
+[Space Complexity of Minimum Cut Problems in Single-Pass Streams.](https://arxiv.org/pdf/2412.01143)\\
 with Matthew Ding, Alexandro Garces, Jason Li, Jelani Nelson, Vihan Shah, and David P. Woodruff \\
 ITCS 2025
 
+[A Theory for Compressibility of Graph Transformers
+for Transductive Learning](https://arxiv.org/pdf/2411.13028)\\
+Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David P. Woodruff, \\
+and Danica J. Sutherland (contributional order) \\
+Machine Learning and Compression Workshop at NeurIPS 2024.
 
-Even Sparser Graph Transformers.\\
+
+[Even Sparser Graph Transformers.](https://arxiv.org/pdf/2411.16278)\\
 Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David P. Woodruff, \\
 and Danica J. Sutherland (contributional order) \\
 NeurIPS 2024
