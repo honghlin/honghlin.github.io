@@ -7,7 +7,7 @@ author_profile: true
 
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
-Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness \\
+Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness. \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
 STOC 2025
 
@@ -16,7 +16,7 @@ STOC 2025
 with Matthew Ding, Alexandro Garces, Jason Li, Jelani Nelson, Vihan Shah, and David P. Woodruff \\
 ITCS 2025
 
-[A Theory for Compressibility of Graph Transformers
+[A Theory for Compressibility of Graph Transformers.
 for Transductive Learning](https://arxiv.org/pdf/2411.13028)\\
 Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David P. Woodruff, \\
 and Danica J. Sutherland (contributional order) \\
