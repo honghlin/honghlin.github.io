@@ -16,11 +16,11 @@ STOC 2025
 with Matthew Ding, Alexandro Garces, Jason Li, Jelani Nelson, Vihan Shah, and David P. Woodruff \\
 ITCS 2025
 
-[A Theory for Compressibility of Graph Transformers.
-for Transductive Learning](https://arxiv.org/pdf/2411.13028)\\
+[A Theory for Compressibility of Graph Transformers for Transductive Learning.](https://arxiv.org/pdf/2411.13028)\\
 Hamed Shirzad, Honghao Lin, Balaji Venkatachalam, Ameya Velingker, David P. Woodruff, \\
 and Danica J. Sutherland (contributional order) \\
 Machine Learning and Compression Workshop at NeurIPS 2024.
+
 
 
 [Even Sparser Graph Transformers.](https://arxiv.org/pdf/2411.16278)\\
