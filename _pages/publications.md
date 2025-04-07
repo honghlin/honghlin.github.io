@@ -7,7 +7,7 @@ author_profile: true
 
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
-Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness. \\
+[Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness.](http://arxiv.org/pdf/2503.19629) \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
 STOC 2025
 
