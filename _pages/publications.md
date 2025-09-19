@@ -15,9 +15,9 @@ with Hoai-An Nguyen, William Swartworth, and David P. Woodruff
 with Hoai-An Nguyen, and David P. Woodruff 
 
 
-Nearly-Linear Time and Massively Parallel Algorithms for $k$-anonymity. \\
-With Kevin Aydin, David P. Woodruff, and Peilin Zhong
-Neurips 2025
+Nearly-Linear Time and Massively Parallel Algorithms for $k$-Anonymity. \\
+With Kevin Aydin, David P. Woodruff, and Peilin Zhong \\
+NeurIPS 2025
 
 [Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness.](http://arxiv.org/pdf/2503.19629) \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
