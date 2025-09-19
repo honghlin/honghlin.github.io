@@ -20,4 +20,4 @@ I am supported by CMU Paul and James Wang Sercomm Presidential Graduate Fellowsh
 
 Previously, I did my undergraduate at ACM Honors Class, Zhiyuan College, Shanghai Jiao Tong University. Besides, I was a visiting student at Division of Mathematical Science, Nanyang Technological University, host by Prof. [Yi Li](https://personal.ntu.edu.sg/yili/) and a research assistant at [ITCS](http://itcs.shufe.edu.cn/english/home.aspx), Shanghai University of Finance and Economics.
 
-Miscellaneous:  I am also an amateur table tennis player with a peak USATT rating of 2000+. As part of the CMU team, we placed 16th at the [2023](https://www.nctta.org/champs/2023/) USA College Table Tennis National Championships and 19th at the [2025](https://www.nctta.org/champs/2025/) Championships.  
+**Miscellaneous**:  I am also an amateur table tennis player with a peak USATT rating of 2000+. As part of the CMU team, we placed 16th at the [2023](https://www.nctta.org/champs/2023/) USA College Table Tennis National Championships and 19th at the [2025](https://www.nctta.org/champs/2025/) Championships.  
