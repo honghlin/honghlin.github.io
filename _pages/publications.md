@@ -15,7 +15,7 @@ with Hoai-An Nguyen, William Swartworth, and David P. Woodruff
 [On Sketching Trimmed Statistics.](https://arxiv.org/abs/2506.07342) \\
 with Hoai-An Nguyen, and David P. Woodruff 
 
-$L_p$ Sampling in Distributed Data Streams with Applications to Adversarial Robustness \\
+[$L_p$ Sampling in Distributed Data Streams with Applications to Adversarial Robustness.](https://arxiv.org/pdf/2510.22816) \\ 
 with Zhao Song, David P. Woodruff, Shenghao Xie, and Samson Zhou \\
 SODA 2026
 
