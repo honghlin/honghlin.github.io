@@ -19,7 +19,7 @@ with Hoai-An Nguyen, and David P. Woodruff
 with Zhao Song, David P. Woodruff, Shenghao Xie, and Samson Zhou \\
 SODA 2026
 
-Nearly-Linear Time and Massively Parallel Algorithms for $k$-Anonymity. \\
+[Nearly-Linear Time and Massively Parallel Algorithms for $k$-Anonymity.](https://openreview.net/pdf?id=It69GYOep0) \\
 With Kevin Aydin, David P. Woodruff, and Peilin Zhong \\
 NeurIPS 2025
 
