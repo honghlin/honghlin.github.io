@@ -8,6 +8,11 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
+Adversarial Robustness on Insertion-Deletion Streams
+with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou
+STOC 2026
+
+
 [Unbiased Insights: Optimal Streaming Algorithms for $\ell_p$ Sampling, the Forget Model, and Beyond.](https://arxiv.org/abs/2508.07067) \\
 with Hoai-An Nguyen, William Swartworth, and David P. Woodruff 
 
