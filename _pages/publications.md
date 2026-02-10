@@ -14,11 +14,12 @@ STOC 2026
 
 
 [Unbiased Insights: Optimal Streaming Algorithms for $\ell_p$ Sampling, the Forget Model, and Beyond.](https://arxiv.org/abs/2508.07067) \\
-with Hoai-An Nguyen, William Swartworth, and David P. Woodruff 
-
+with Hoai-An Nguyen, William Swartworth, and David P. Woodruff \\
+PODS 2026
 
 [On Sketching Trimmed Statistics.](https://arxiv.org/abs/2506.07342) \\
-with Hoai-An Nguyen, and David P. Woodruff 
+with Hoai-An Nguyen, and David P. Woodruff \\
+PODS 2026
 
 [$L_p$ Sampling in Distributed Data Streams with Applications to Adversarial Robustness.](https://arxiv.org/pdf/2510.22816) \\
 with Zhao Song, David P. Woodruff, Shenghao Xie, and Samson Zhou \\
