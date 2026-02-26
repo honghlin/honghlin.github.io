@@ -8,7 +8,7 @@ author_profile: true
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
 
-Adversarial Robustness on Insertion-Deletion Streams. \\
+[Adversarial Robustness on Insertion-Deletion Streams.](https://arxiv.org/pdf/2602.20854) \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
 STOC 2026
 
