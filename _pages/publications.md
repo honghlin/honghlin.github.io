@@ -15,7 +15,7 @@ STOC 2026
 
 [Unbiased Insights: Optimal Streaming Algorithms for $\ell_p$ Sampling, the Forget Model, and Beyond.](https://arxiv.org/abs/2508.07067) \\
 with Hoai-An Nguyen, William Swartworth, and David P. Woodruff \\
-PODS 2026, <b><font color="red">Best Paper Award</font></b>
+PODS 2026, <font color="red">Best Paper Award</font>
 
 [On Sketching Trimmed Statistics.](https://arxiv.org/abs/2506.07342) \\
 with Hoai-An Nguyen, and David P. Woodruff \\
