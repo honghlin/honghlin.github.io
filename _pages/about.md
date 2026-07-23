@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a Visiting Faculty Researcher at Google Research and a joint postdoctoral researcher at Carnegie Mellon University and Texas A&M University, hosted by Prof. [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) and Prof. [Samson Zhou](https://samsonzhou.github.io/). I received my PhD in Computer Science from Carnegie Mellon University, where I was fortunate to be advised by Prof. [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a particular focus on:
+I am a Visiting Faculty Researcher at Google Research and a joint postdoctoral researcher at Carnegie Mellon University and Texas A&M University, hosted by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) and [Samson Zhou](https://samsonzhou.github.io/). I received my PhD in Computer Science from Carnegie Mellon University, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a particular focus on:
 * Sublinear Algorithms (like Sketching and Sampling Algorithms, Property Testing and Dimensionality Reduction) 
 * Algorithms for Massive Data 
 * Learning-based/Data-driven Algorithms 
@@ -20,5 +20,5 @@ At Google, I also work on improving the reasoning capabilities of language model
 
 I was supported by CMU Paul and James Wang Sercomm Presidential Graduate Fellowship for 2023-2024. I was also a student researcher in Google Research for 2024-2025, where I was supervised by Kevin Aydin and Peilin Zhong.
 
-Previously, I did my undergraduate at ACM Honors Class, Zhiyuan College, Shanghai Jiao Tong University. Besides, I was a visiting student at Division of Mathematical Science, Nanyang Technological University, host by Prof. [Yi Li](https://personal.ntu.edu.sg/yili/) and a research assistant at [ITCS](http://itcs.shufe.edu.cn/english/home.aspx), Shanghai University of Finance and Economics.
+Previously, I did my undergraduate at ACM Honors Class, Zhiyuan College, Shanghai Jiao Tong University. Besides, I was a visiting student at Division of Mathematical Science, Nanyang Technological University, host by [Yi Li](https://personal.ntu.edu.sg/yili/) and a research assistant at [ITCS](http://itcs.shufe.edu.cn/english/home.aspx), Shanghai University of Finance and Economics.
 
