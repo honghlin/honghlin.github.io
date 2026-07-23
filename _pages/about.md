@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a Visiting Faculty Researcher at Google Research and a joint postdoctoral researcher at Carnegie Mellon University and Texas A&M University, hosted by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) and [Samson Zhou](https://samsonzhou.github.io/). I received my PhD in Computer Science from Carnegie Mellon University, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a particular focus on:
+I am a Visiting Faculty Researcher at Google Research and a joint postdoctoral researcher at Carnegie Mellon University and Texas A&M University, hosted by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) and [Samson Zhou](https://samsonzhou.github.io/). I received my PhD in Computer Science from CMU, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a particular focus on:
 * Sublinear Algorithms (like Sketching and Sampling Algorithms, Property Testing and Dimensionality Reduction) 
 * Algorithms for Massive Data 
 * Learning-based/Data-driven Algorithms 
