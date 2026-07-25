@@ -16,7 +16,7 @@ I am a Visiting Faculty Researcher at Google Research and a joint postdoctoral r
 * Learning-based/Data-driven Algorithms 
 * Robustness of Algorithms and Machine Learning.
 
-At Google, I also work on improving the reasoning capabilities of language models, including through inference-time scaling, with applications to mathematics and theoretical computer science.
+At Google, I also work on improving the reasoning capabilities of language models, including through inference-time methods and agentic workflows, with applications to mathematics and theoretical computer science.
 
 I was supported by CMU Paul and James Wang Sercomm Presidential Graduate Fellowship for 2023-2024. I was also a student researcher in Google Research for 2024-2025, where I was supervised by Kevin Aydin and Peilin Zhong.
 
