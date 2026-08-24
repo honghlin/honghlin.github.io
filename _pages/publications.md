@@ -7,7 +7,11 @@ author_profile: true
 
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
-[Adversarial Robustness for Small Frequency Moments and a Weak Equivalence Theorem for Turnstile Streams](http://arxiv.org/pdf/2607.06312) \\
+[Near-Optimal Strong Coresets for $\ell_p$ Subspace Approximation.](/files/subspace-appro.pdf) \\
+with Vahab Mirrokni and David P. Woodruff \\
+
+
+[Adversarial Robustness for Small Frequency Moments and a Weak Equivalence Theorem for Turnstile Streams.](http://arxiv.org/pdf/2607.06312) \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
 FOCS 2026
 
