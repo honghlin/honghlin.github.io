@@ -7,7 +7,7 @@ author_profile: true
 
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
-[Near-Optimal Strong Coresets for $\ell_p$ Subspace Approximation.](/files/subspace_appro.pdf) \\
+[Nearly Optimal Strong Coresets for $\ell_p$ Subspace Approximation.](/files/subspace_approx.pdf) \\
 with Vahab Mirrokni and David P. Woodruff \\
 Manuscript
 
