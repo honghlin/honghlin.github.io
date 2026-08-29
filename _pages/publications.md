@@ -7,18 +7,15 @@ author_profile: true
 
 (Following conventions of math and theoretical computer science, authors are listed in alphabetical order.)
 
-[Nearly Optimal Strong Coresets for $\ell_p$ Subspace Approximation.](/files/subspace_approx.pdf) \\
-with Vahab Mirrokni and David P. Woodruff \\
-Manuscript
 
 [Adversarial Robustness for Small Frequency Moments and a Weak Equivalence Theorem for Turnstile Streams.](http://arxiv.org/pdf/2607.06312) \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
 FOCS 2026
 
-
 [Adversarial Robustness on Insertion-Deletion Streams.](https://arxiv.org/pdf/2602.20854) \\
 with Elena Gribelyuk, David P. Woodruff, Huacheng Yu, and Samson Zhou \\
 STOC 2026
+
 
 
 [Unbiased Insights: Optimal Streaming Algorithms for $\ell_p$ Sampling, the Forget Model, and Beyond.](https://arxiv.org/abs/2508.07067) \\
