@@ -10,13 +10,14 @@ redirect_from:
 
 # About Me
 
-I am a Visiting Faculty Researcher at Google Research and a joint postdoctoral researcher at Carnegie Mellon University and Texas A&M University, hosted by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) and [Samson Zhou](https://samsonzhou.github.io/). I received my PhD in Computer Science from CMU, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a particular focus on:
+I am a Visiting Faculty Researcher at Google Research. I received my PhD in Computer Science from Carnegie Mellon University in December 2025., where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a particular focus on:
 * Sublinear Algorithms (like Sketching and Sampling Algorithms, Property Testing and Dimensionality Reduction) 
 * Algorithms for Massive Data 
 * Learning-based/Data-driven Algorithms 
 * Robustness of Algorithms and Machine Learning.
 
-At Google, I also work on improving the reasoning capabilities of language models, including through inference-time methods and agentic workflows, with applications to mathematics and theoretical computer science.
+At Google, I also work on improving the reasoning capabilities of language models, including through inference-time methods and agentic workflows, with applications to mathematics and theoretical computer science. We developed a large-scale multi-agent framework for long-horizon mathematical and TCS research that has successfully solved several open problems. This work has since been integrated into Google Antigravity’s Teamwork multi-agent framework as the Long Proof pattern. See our [blog post](https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner) for more details.
+
 
 I was supported by CMU Paul and James Wang Sercomm Presidential Graduate Fellowship for 2023-2024. I was also a student researcher in Google Research for 2024-2025, where I was supervised by Kevin Aydin and Peilin Zhong.
 
