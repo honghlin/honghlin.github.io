@@ -18,7 +18,7 @@ I am a Visiting Faculty Researcher at Google Research. I received my PhD in Comp
 
 At Google, I also work on improving the reasoning capabilities of language models, including through inference-time methods and agentic workflows, with applications to mathematics and theoretical computer science. 
 
-We developed a large-scale multi-agent framework for long-horizon mathematical and TCS research that has successfully solved several open problems. This work has since been integrated into Google Antigravity’s Teamwork multi-agent framework as the Long Proof pattern. See our [blog post](https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner) for more details. We also introduced [TCS-Bench](https://arxiv.org/pdf/2608.09538), a benchmark for evaluating frontier language models on research-level TCS problems.
+We developed a large-scale multi-agent framework for long-horizon mathematical and TCS research that has successfully solved several open problems. This work has since been integrated into Google Antigravity’s Teamwork framework as the Long Proof pattern. See our [blog post](https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner) for more details. We also introduced [TCS-Bench](https://arxiv.org/pdf/2608.09538), a benchmark for evaluating frontier language models on research-level TCS problems.
 
 
 I was supported by CMU Paul and James Wang Sercomm Presidential Graduate Fellowship for 2023-2024. I was also a student researcher in Google Research for 2024-2025, where I was supervised by Kevin Aydin and Peilin Zhong.
