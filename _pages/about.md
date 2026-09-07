@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a Visiting Faculty Researcher at Google Research. I received my PhD in Computer Science from Carnegie Mellon University in December 2025, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a particular focus on:
+I am a Visiting Faculty Researcher at Google Research. I received my PhD in Computer Science from Carnegie Mellon University in December 2025, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a current focus on:
 * Algorithms for Massive Data: Designing algorithms for sublinear, streaming, distributed, and learning-augmented settings, as well as studying adversarial robustness in algorithms and machine learning.
 * AI Reasoning: Improving the reasoning capabilities of large language models, with applications to mathematics and theoretical computer science.
 
