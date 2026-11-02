@@ -10,9 +10,9 @@ redirect_from:
 
 # About Me
 
-I am a Visiting Faculty Researcher at Google Research. I received my PhD in Computer Science from Carnegie Mellon University in December 2025, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a current focus on:
+I am a research scientist at Google Research. I received my PhD in Computer Science from Carnegie Mellon University in December 2025, where I was fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). My research interests lie broadly in theoretical computer science and machine learning, with a current focus on:
 * Algorithms for Massive Data: Designing algorithms for sublinear, streaming, distributed, and learning-augmented settings, as well as studying adversarial robustness in algorithms and machine learning.
-* AI Reasoning: Improving the reasoning capabilities of large language models, with applications to mathematics and theoretical computer science.
+* AI Reasoning: Developing training and inference-time methods to improve the reasoning capabilities of large language models, with applications to mathematics and theoretical computer science.
 
 At Google, we developed a large-scale multi-agent framework for long-horizon mathematical and TCS research that has successfully solved several open problems. This work has since been integrated into Google Antigravity’s Teamwork framework as the Long Proof pattern. See the [technical report](https://arxiv.org/pdf/2609.15983) and [blog post](https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner) for more details. We also introduced [TCS-Bench](https://arxiv.org/pdf/2608.09538), a benchmark for evaluating frontier language models on research-level TCS problems. The benchmark is publicly available on [GitHub](https://github.com/TCSBench/TCSBench).
 
